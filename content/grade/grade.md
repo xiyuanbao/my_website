@@ -3,8 +3,8 @@ title: "Grades"
 date: 2017-09-30T12:32:54+08:00
 draft: false
 ---
+I got good grades in most of my specialized courses, e.g. Principle and Application of Seismology(92), Engineering Geology(98), Theory of Geoelectricity and Geomagnetism(95), The Gravity and the Tide of the Earth(95) and Electrodynamics(95). I believe coding is a powerful tool to realize my ideas , which is the reason why I choose half of the courses in CS degree, i.e. C++, Data Structure, Discrete Mathematics, Principles of artificial intelligence and Principles of Computer Organization. At the same time I learned C/C#, Python, Matlab and a bit Fortran on my own. And in Geophysical Foundation Experiment I was trained to use GMT, SAC, etc.on Linux.
 
-I got good grades in most of my specialized courses, e.g. Principle and Application of Seismology(92), Engineering Geology(98), Theory of Geoelectricity and Geomagnetism(95), The Garvity and the Tide of the Earth(95) and Electrodynamics(95). I believe coding is a powerful tool to realize my ideas , which is the reason why I choose half of the courses in CS degree, i.e. C++, Data Structure, Discrete Mathematics, Principles of artificial intelligence and Principles of Computer Organization. At the same time I learned C, Python, Matlab and a bit Fortran on my own. And in Geophysical Foundation Experiment I was trained to use GMT, SAC, etc.on Linux.
 ## GPA in USTC
 | 0~100 |F-A |0~4.3|
 |-------|----|----|
@@ -16,13 +16,13 @@ I got good grades in most of my specialized courses, e.g. Principle and Applicat
 |77~75  |B-  |2.7 |
 |74~72  |C+  |2.3 |
 |71~68  |C   |2.0 |
-|64     |D+  |1.5 |
 |67~65  |C-  |1.7 |
+|64     |D+  |1.5 |
 |63~61  |D   |1.3 |
 |60     |D-  |1.0 |
 |<60    |F   |0   |
 ## Major:Geophysics
-### GPA:3.63 / 4.30  86.68 / 100 ([different rules]({{< ref "grade/gpa.md" >}}))
+### GPA:3.64 / 4.30  86.85 / 100 ([different rules]({{< ref "grade/gpa.md" >}}))
 ### Ranking:12/51 ,  4 in the third year (comprehensive ranking)
 
 
@@ -73,6 +73,7 @@ I got good grades in most of my specialized courses, e.g. Principle and Applicat
 |2016SP|  **Health Preservation I**                                |  A+  |40   |1  |
 |2016SP| 	Introduction to Chinese Important Thoughts 	         |  84 	|60 	|3  |
 |2016SP|  Practice on Chinese Important Thoughts               |  Pass|40   |1  |
+|2016SP| 	Quantum Mechanics C 	                               | 79 	|60 	|3  |
 |      |                                                       |      |     |   |
 |2016FA| 	Foundation of Continuous Media Mechanics 	           | 84 	|80 	|4  |
 |2016FA| 	**Spectrum Analysis and Digits Signal Processing** 	     | 93 	|60 	|3  |
@@ -86,7 +87,7 @@ I got good grades in most of my specialized courses, e.g. Principle and Applicat
 |2017SP| 	**Principle and Application of Seismology** 	           | 92 	|60 	|3  |
 |2017SP| 	**Engineering Geology** 	                               | 98 	|40 	|2  |
 |2017SP| 	**Theory of Geoelectricity and Geomagnetism**       	   | 95 	|70 	|3.5|
-|2016SP| 	Quantum Mechanics C 	                               | 79 	|60 	|3  |
+|2017FA| 	**Undergraduate Research Program**       	   | A 	|N/A 	|4|
 
 
 ## Minor:Computer Science
@@ -94,5 +95,7 @@ I got good grades in most of my specialized courses, e.g. Principle and Applicat
 | ---- | ------------------------------------------------------------------|------|-----|-------|
 |2016SP| 	C++ 	|85| 	70| 	3.5|
 |2016SP| 	**Data Structure** 	|93 	|70| 	3.5|
-|2016SP|	Discrete Mathematics |82 | 	60| 	3|
+|2016SP|	Discrete Mathematics I|82 | 	60| 	3|
 |2017SP| 	Principles of artificial intelligence| 	83 	|70| 	3.5|
+|2017FA| 	Discrete Mathematics II 	|NA |	60 |	3|
+|2017FA |	Principles of Computer Organization |	NA |	70 |	3.5|
