@@ -13,9 +13,9 @@ weight = 5
 [interests]
   interests = [
     "Geodynamics",
-    "High Performance computing",
+    "Planetary Evolution",
     "AI & Machine Learning",
-    "Virtual Reality & Augmented Reality"
+    "Visualization ,VR & AR"
   ]
 
 # List your qualifications (such as academic degrees).
