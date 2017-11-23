@@ -3,8 +3,11 @@ title: "Grades"
 date: 2017-09-30T12:32:54+08:00
 draft: false
 ---
-### TOEFL: 107 (Reading: 29, Listening: 29, Speaking: 22, Writing: 27)
-### GRE: 321(Verbal: 152, Quantitative: 169, Analytical Writing: 3.0)
+## Standard Tests
+### TOEFL: 107
+Reading: 29, Listening: 29, Speaking: 22, Writing: 27
+### GRE: 321
+Verbal: 152, Quantitative: 169, Analytical Writing: 3.0
 
 I got good grades in most of my specialized courses, e.g. Principle and Application of Seismology(92), Engineering Geology(98), Theory of Geoelectricity and Geomagnetism(95), The Gravity and the Tide of the Earth(95) and Electrodynamics(95). I believe coding is a powerful tool to realize my ideas , which is the reason why I choose half of the courses in CS degree, i.e. C++, Data Structure, Discrete Mathematics, Principles of artificial intelligence and Principles of Computer Organization. At the same time I learned C/C#, Python, Matlab and a bit Fortran on my own. And in Geophysical Foundation Experiment I was trained to use GMT, SAC, etc.on Linux.
 

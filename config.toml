@@ -128,7 +128,10 @@ defaultContentLanguageInSubdir = false
     icon = "envelope"
     icon_pack = "fa"
     link = "//sgzzldemo@gmail.com"
-
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/xiyuanbao"
 
 
 # Navigation Links
